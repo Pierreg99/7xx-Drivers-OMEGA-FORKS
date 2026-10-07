@@ -1,92 +1,58 @@
-# Windows Driver pack for 7xx snapdragon platform
+<div align="center">
 
-## Drivers
+<img src="./assets/readme-banner.svg" alt="7xx-Drivers-OMEGA-FORKS" width="100%">
 
-<details>
-<summary><b><strong>7125</strong></b></summary>
-  
-- [Miatoll](https://github.com/N1kroks/7xx-Drivers/releases) ```The last drivers are from N1kroks, which is making great advances```
+# 7xx-Drivers-OMEGA-FORKS
 
-  </summary>
-</details>
+Windows Driver pack for 7xx Snapdragon platforms.
 
-<details>
-<summary><b><strong>7150</strong></b></summary
+[![branch](https://img.shields.io/badge/branch-main-7EB8C9?style=flat-square)](https://github.com/Pierreg99/7xx-Drivers-OMEGA-FORKS/tree/main)
+[![sichtbarkeit](https://img.shields.io/badge/sichtbarkeit-public-141414?style=flat-square&labelColor=0A0A0A)](https://github.com/Pierreg99/7xx-Drivers-OMEGA-FORKS)
+[![surface](https://img.shields.io/badge/surface-Cryo_Core_Lite_v1.5-2A2A28?style=flat-square&labelColor=0A0A0A)](https://github.com/Pierreg99/7xx-Drivers-OMEGA-FORKS)
 
-Surya (Not Yet)
+</div>
 
-Sweet (Not Yet)
+<table>
+<tr>
+<td width="58%" valign="top">
 
-  </summary>
-</details>
+### Bestand
 
-<details>
-<summary><b><strong>7325</strong></b></summary
+Windows Driver pack for 7xx Snapdragon platforms. This OMEGA fork keeps the existing driver documentation available without turning unverified claims into features.
 
-[Lisa](https://github.com/Icesito68/7xx-Drivers/releases/tag/Lisa-Drivers-V0.0.1)
+Der Default-Branch `main` ist die Fläche, die zählt. Was nicht in diesem Baum liegt, ist kein Feature dieses Repos.
 
-  </summary>
-</details>
+</td>
+<td width="42%" valign="top">
 
+### Fakten
 
-<img align="center" src="https://github.com/Icesito68/7xx-Drivers/blob/main/images/Snap-7xx-devices.png">
+| Feld | Wert |
+| --- | --- |
+| Owner | Pierreg99 |
+| Branch | `main` |
+| Sichtbarkeit | public |
+| Linie | OMEGA Fork |
+| README | Cryo Core Lite v1.5 |
 
+</td>
+</tr>
+</table>
 
-These drivers have some features in beta for Redmi Note 9S.
+## Lesen
 
-There are also files in alpha for Xiaomi Mi 11 Lite 5g NE
+1. Default-Branch öffnen.
+2. Nur Dateien in diesem Baum als Beleg nehmen.
+3. Bestehende Treiberhinweise und Credits bleiben in der archivierten README erhalten.
 
-These drivers still do not contain anything useful for the Poco X3 Nfc or Redmi Note 10 Pro, many changes are still needed.
+## Bisherige Dokumentation
 
-This repository contains driver binary files for 7xx snapdragon platform.
-All driver binary files form a board support package to be used on 7xx snapdragon platform devices to provide hardware support for the Windows operating system.
+Die vorherige README bleibt vollständig im aktuellen Repository erhalten:
 
-These driver files are not perfect, typos may exist, feel free to file an issue on GitHub in case you found any.
+**[README.before-cryo-core-v1.5.md](./README.before-cryo-core-v1.5.md)**
 
-<img align="center" src="https://github.com/Icesito68/7xx-Drivers/blob/main/images/sweet.png">
+## Grenze
 
-## Credits
+Keine Qualitätszahl, kein Paketstand und keine Runtime, die nicht als Datei in diesem Repo steht.
 
-### Thanks a lot to [sunflower2333](https://github.com/sunflower2333) for porting all drivers for Miatoll!!
-
-Huge thanks to @gus33000 for sharing the necessary drivers for the 778g (and for being a pioneer in many of these things)
-
-Thanks to [ETCHDEV](https://github.com/ETCHDEV) for adding some drivers for lisa
-
-Thanks to [Idonotkno](https://github.com/Idonotkno/sc7180-drivers_mtp7180) for sharing the necessary drivers for the 720g
-
-## Resources
-
-## Copyright, License, Disclaimers and end user license agreement
-
-**Below notice must be present in all redistributed portions of this software**
-
-Copyright (c) 2017-2022 WOA-Project
-
-Copyright (c) 2011-2020 Qualcomm Incorporated
-
-Copyright (c) 2019-2022 Microsoft Corporation
-
-This repository contains binary files sourced from Qualcomm Snapdragon 8cx laptops/tablets as well as the Surface Duo original android firmware. As some mistakes may exist, we cannot provide warranty of any kind. 
-
-- By installing this driver pack, you agree that any damage done to your phone or any loss of data is your entire responsibility and we cannot be taken responsible for data loss if it ever happens. We believe however this driver pack is safe to install. Try at your own risk!
-
-
-The above copyright notice and this permission notice shall be included in all
-
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-
-SOFTWARE.
-
+<p align="center"><sub>Fläche nach Cryo Core Lite v1.5 · Tokens #0A0A0A / #141414 / #7EB8C9</sub></p>
